@@ -1,6 +1,7 @@
 # Privacy Policy for Triple Match Pile
 
 **Last Updated:** September 17, 2026
+email janaire.dev@gmail.com
 
 Thank you for playing **Triple Match Pile** ("we", "our", or "the Game"). We value your trust and are committed to protecting your privacy. This Privacy Policy describes how data is handled when you enjoy our puzzle game on mobile, tablet, or web devices.
 
